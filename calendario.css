@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    border: 1px solid rgb(53, 93, 96) ;
+    border-radius: 7px;
+    padding: 15px; 
+  }
+  
+  caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+  }
+  
+  th, td {
+    padding: 30px;
+    text-align: left;
+    border-radius: 15px;
+    margin-bottom: 10px;
+  }
+  
+  thead th {
+    background-color: #49d8ce;
+    text-align: center;
+  }
+  
+  tbody td {
+    background-color: #deeae8;
+  }
+  
+  tbody td:hover {
+    background-color: #bad5d8;
+  }
+
+  
+  
